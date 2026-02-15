@@ -1,0 +1,16 @@
+# MiniCraft Deployment
+
+This is the MiniCraft game deployed using GitHub Pages. To access it, visit the following URL:
+
+https://faparecido625-png.github.io/Minecraft-2
+
+## Configuration
+
+### Build Command
+1. Build the project using your preferred method for MiniCraft.
+
+### Publish Directory
+1. Ensure that the output of the build command is directed to the root of this repository or updated accordingly.
+
+### Note
+- Make sure to set the GitHub Pages source to the main branch from the repository settings.
